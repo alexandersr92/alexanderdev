@@ -1,0 +1,339 @@
+{
+  "seo": {
+    "title": "Alexander Sanchez — Web Developer",
+    "description": "Frontend / WordPress / Next.js Developer. Projects, experience, and contact info.",
+    "ogImage": "/images/og/cover.png"
+  },
+  "hero": {
+    "greeting": "Hey, I’m Alex",
+    "title": "I build fast, scalable web experiences",
+    "subtitle": "WordPress Headless • WooCommerce • React / TypeScript",
+    "ctaPrimary": { "label": "See my work", "href": "#works" },
+    "ctaSecondary": {
+      "label": "Download CV",
+      "href": "/CV-AlexanderSanchez.pdf"
+    },
+    "avatar": "/images/hero/avatar.png",
+    "background": "/images/hero/bg.jpg",
+    "highlights": [
+      "10+ years of web dev",
+      "Performance & SEO",
+      "Custom integrations"
+    ]
+  },
+  "works": {
+    "title": "Featured Work",
+    "items": [
+      {
+        "title": "Headless with Next.js + WordPress",
+        "year": 2025,
+        "role": "Frontend Lead",
+        "summary": "Development of a headless WordPress site integrated with Next.js, featuring dynamic pages powered by ACF fields, optimized for SEO and performance, and deployed with a fully custom frontend built using TypeScript and Tailwind CSS.",
+
+        "gallery": [
+          "/images/works/mhmh/1.png",
+          "/images/works/mhmh/2.png",
+          "/images/works/mhmh/3.png",
+          "/images/works/mhmh/4.png"
+        ],
+        "tech": [
+          "Next.js",
+          "TypeScript",
+          "WordPress API",
+          "Tailwind CSS",
+          "ACF"
+        ],
+        "links": {
+          "live": "https://myhousemyhome.com/"
+        }
+      },
+      {
+        "title": "Headless with Next.js + WordPress",
+
+        "year": 2025,
+        "role": "Frontend Lead",
+        "summary": "Catalog, cart, and checkout powered by WooCommerce REST API.",
+
+        "gallery": [
+          "/images/works/duncaster/1.png",
+          "/images/works/duncaster/2.png",
+          "/images/works/duncaster/3.png",
+          "/images/works/duncaster/4.png"
+        ],
+        "tech": ["Next.js", "TypeScript", "WooCommerce API", "Tailwind CSS"],
+        "links": {
+          "live": "https://example.com",
+          "repo": "https://hovr8n5gojgncdh5rfgs9nih1.js.wpenginepowered.com/"
+        }
+      },
+      {
+        "id": "work-001",
+        "title": "Headless  with Next.js + WordPress",
+
+        "year": 2025,
+        "role": "Frontend Lead",
+        "summary": "Catalog, cart, and checkout powered by WooCommerce REST API.",
+
+        "gallery": [
+          "/images/works/thehighlands/1.png",
+          "/images/works/thehighlands/2.png",
+          "/images/works/thehighlands/3.png",
+          "/images/works/thehighlands/4.png"
+        ],
+        "tech": ["Next.js", "TypeScript", "WooCommerce API", "Tailwind CSS"],
+        "links": {
+          "live": "https://example.com",
+          "repo": "https://hke1ssrvr0xap0u3v4wj4sn2m.js.wpenginepowered.com/"
+        }
+      },
+      {
+        "title": "Headless  with Next.js + WordPress",
+
+        "year": 2025,
+        "role": "Frontend Lead",
+        "summary": "Catalog, cart, and checkout powered by WooCommerce REST API.",
+
+        "gallery": [
+          "/images/works/biodesix/1.png",
+          "/images/works/biodesix/2.png",
+          "/images/works/biodesix/3.png"
+        ],
+        "tech": ["Next.js", "TypeScript", "WooCommerce API", "Tailwind CSS"],
+        "links": {
+          "live": "https://example.com",
+          "repo": "https://www.biodesix.com/"
+        }
+      },
+      {
+        "title": "Headless  with Next.js + WordPress",
+
+        "year": 2025,
+        "role": "Frontend Lead",
+        "summary": "Catalog, cart, and checkout powered by WooCommerce REST API.",
+
+        "gallery": [
+          "/images/works/ore/1.png",
+          "/images/works/ore/2.png",
+          "/images/works/ore/3.png",
+          "/images/works/ore/4.png"
+        ],
+        "tech": ["Next.js", "TypeScript", "WooCommerce API", "Tailwind CSS"],
+        "links": {
+          "live": "https://example.com",
+          "repo": "https://ore.design/"
+        }
+      },
+      {
+        "id": "work-001",
+        "title": "Headless  with Next.js + WordPress",
+
+        "year": 2025,
+        "role": "Frontend Lead",
+        "summary": "Catalog, cart, and checkout powered by WooCommerce REST API.",
+
+        "gallery": [
+          "/images/works/jacobsen/1.png",
+          "/images/works/jacobsen/2.png",
+          "/images/works/jacobsen/3.png",
+          "/images/works/jacobsen/4.png"
+        ],
+        "tech": ["Next.js", "TypeScript", "WooCommerce API", "Tailwind CSS"],
+        "links": {
+          "repo": "https://www.jacobsenconstruction.com/"
+        }
+      },
+      {
+        "id": "work-001",
+        "title": "Headless  with Next.js + WordPress",
+
+        "year": 2025,
+        "role": "Frontend Lead",
+        "summary": "Catalog, cart, and checkout powered by WooCommerce REST API.",
+
+        "gallery": ["/images/works/autoavanz/1.png"],
+        "tech": ["Next.js", "TypeScript", "WooCommerce API", "Tailwind CSS"],
+        "links": {
+          "live": "https://autoavanz.com/",
+          "repo": "https://github.com/username/project"
+        },
+        "tags": ["ecommerce", "headless"]
+      },
+      {
+        "title": "Headless  with Next.js + WordPress",
+
+        "year": 2025,
+        "role": "Frontend Lead",
+        "summary": "Catalog, cart, and checkout powered by WooCommerce REST API.",
+
+        "gallery": [
+          "/images/works/kwlatam/1.png",
+          "/images/works/kwlatam/2.png",
+          "/images/works/kwlatam/3.png",
+          "/images/works/kwlatam/4.png"
+        ],
+        "tech": ["Next.js", "TypeScript", "WooCommerce API", "Tailwind CSS"],
+        "links": {
+          "live": "https://example.com",
+          "repo": "https://github.com/username/project"
+        },
+        "tags": ["ecommerce", "headless"]
+      },
+      {
+        "title": "Headless  with Next.js + WordPress",
+
+        "year": 2025,
+        "role": "Frontend Lead",
+        "summary": "Catalog, cart, and checkout powered by WooCommerce REST API.",
+
+        "gallery": [
+          "/images/works/manosnicas/1.png",
+          "/images/works/manosnicas/2.png"
+        ],
+        "tech": ["Next.js", "TypeScript", "WooCommerce API", "Tailwind CSS"],
+        "links": {
+          "live": "https://manosnicas.com/"
+        }
+      }
+    ]
+  },
+  "experience": {
+    "title": "Experience",
+    "items": [
+      {
+        "company": "IDo Agency",
+        "position": "Senior Software Development Engineer",
+        "start": "2022-12",
+        "end": "present",
+        "location": "San Jose, Costa Rica (Remote)",
+        "bullets": [
+          "Led the architecture and development of modern web solutions using a WordPress Headless CMS integrated with Next.js and TypeScript, ensuring scalability, performance, and seamless content management.",
+          "Spearheaded the development of robust and scalable front-end applications utilizing React and TypeScript.",
+          "Designed and implemented custom WordPress themes and plugins tailored to client-specific needs.",
+          "Engineered an innovative 3D configurator plugin integrated with WooCommerce, boosting e-commerce engagement.",
+          "Collaborated with cross-functional teams to deliver high-quality solutions under agile methodologies.",
+          "Continuously optimized codebase and adopted modern techniques to enhance performance and maintainability."
+        ],
+        "tech": [
+          "Next.js",
+          "React",
+          "TypeScript",
+          "WordPress",
+          "WooCommerce",
+          "PHP",
+          "Tailwind",
+          "Git"
+        ]
+      },
+      {
+        "company": "NicaSource LLC",
+        "position": "Software Development Engineer",
+        "start": "2020-02",
+        "end": "2022-12",
+        "location": "Managua, Nicaragua (Remote)",
+        "bullets": [
+          "Developed dynamic and responsive websites using Vue.js integrated with WordPress CMS.",
+          "Built custom endpoints and hooks to extend WordPress functionality.",
+          "Implemented Gitflow for structured version control and collaboration.",
+          "Collaborated with teams to deliver performant, high-quality web solutions on schedule.",
+          "Refactored and optimized codebases to improve maintainability and performance."
+        ],
+        "tech": ["Vue.js", "WordPress", "PHP", "MySQL", "JavaScript", "Git"]
+      },
+      {
+        "company": "Ahinko",
+        "position": "WordPress Developer",
+        "start": "2021-05",
+        "end": "2022-02",
+        "location": "Managua, Nicaragua (Remote)",
+        "bullets": [
+          "Developed custom WordPress templates and themes with HTML, CSS, and JavaScript.",
+          "Created plugins for WordPress and WooCommerce using PHP and MySQL.",
+          "Developed lightweight APIs to integrate WordPress with external systems.",
+          "Optimized website performance and ensured cross-browser compatibility.",
+          "Worked with designers and stakeholders to deliver scalable, high-quality solutions."
+        ],
+        "tech": [
+          "PHP",
+          "WordPress",
+          "WooCommerce",
+          "JavaScript",
+          "MySQL",
+          "HTML",
+          "CSS"
+        ]
+      },
+      {
+        "company": "Dipledev",
+        "position": "Founder / Developer",
+        "start": "2018-01",
+        "end": "present",
+        "location": "Nicaragua (Remote)",
+        "bullets": [
+          "Founded Dipledev, a web development agency focused on custom WordPress and Next.js projects.",
+          "Delivered headless and e-commerce solutions with optimized SEO and performance.",
+          "Built SaaS and plugin products integrating APIs, shipping systems, and AI-driven tools."
+        ],
+        "tech": [
+          "Next.js",
+          "React",
+          "Laravel",
+          "WordPress",
+          "WooCommerce",
+          "Tailwind",
+          "Supabase"
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "title": "Knowledge",
+    "stacks": [
+      {
+        "category": "Frontend",
+        "skills": [
+          { "name": "React / Next.js", "level": 2018 },
+          { "name": "TypeScript", "level": 2020 },
+          { "name": "Tailwind CSS", "level": 2020 },
+          { "name": "Technical SEO", "level": 2016 }
+        ]
+      },
+      {
+        "category": "WordPress",
+        "skills": [
+          { "name": "ACF / Blocks / REST", "level": 2018 },
+          { "name": "WooCommerce", "level": 2020 },
+          { "name": "Custom Plugins", "level": 2019 }
+        ]
+      },
+      {
+        "category": "Backend & DevOps",
+        "skills": [
+          { "name": "PHP / Laravel", "level": 2014 },
+          { "name": "MySQL / Postgres", "level": 2014 },
+          { "name": "CI/CD (Vercel, GitHub)", "level": 2022 }
+        ]
+      }
+    ]
+  },
+  "contact": {
+    "title": "Contact",
+    "intro": "Feel free to reach out through any of these platforms.",
+    "email": "ing.alexandersanchez@gmail.com",
+    "showMailto": true,
+    "socials": [
+      {
+        "name": "LinkedIn",
+        "href": "https://www.linkedin.com/in/alexandersr92"
+      },
+      { "name": "GitHub", "href": "https://github.com/alexandersr92" },
+      {
+        "name": "UpWork",
+        "href": "https://upwork.com/freelancers/alexanders270"
+      }
+    ]
+  },
+  "footer": {
+    "copyright": "© 2025 Alexander Sanchez",
+    "madeWith": ["Next.js", "Tailwind CSS"]
+  }
+}
